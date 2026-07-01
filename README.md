@@ -1,6 +1,9 @@
 # LLMAgentsEmpiricalStudy
 An Empirical Study of Safety Failures in Tool-Using LLM Agents
 
+## Reportrd Agent Safety ISSUEs by this work
+
+
 | NO. | Project | Fork | Star | # Misuse (*Fixed) | Confirmed Issue Id | Fixed PR / Commit |
 | ---: | --- | ---: | ---: | ---: | --- | --- |
 | **Mode 1** | - | - | - | - | - | - |
